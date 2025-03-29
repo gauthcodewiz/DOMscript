@@ -1,7 +1,8 @@
 # DOMscript
 Notes on DOM Scripting for Web Development
 
-- [ ] History of JavaScript
+- [x] History of JavaScript
+- [ ] Introduction to DOMscript
 - [ ] Syntax of JavaScript
 - [ ] DOM - Document Object Model
 - [ ] **Project 1:** JavaScript Image Gallery
