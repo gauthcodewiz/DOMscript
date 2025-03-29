@@ -17,7 +17,7 @@ Like said before, the origins of web design were rather haphazard and several co
 
 ## Standardization of JavaScript
 
-- As a response to VBScript Netscape and Sun Microsystems set about standardizing the langauge together with the European Computer Manufacturers Asssociation (ECMA). The result is known as ECMAscript, yet another name for JavaScript, which however didn't stick on much.
+As a response to VBScript Netscape and Sun Microsystems set about standardizing the langauge together with the European Computer Manufacturers Asssociation (ECMA). The result is known as ECMAscript, yet another name for JavaScript, which however didn't stick on much.
 
 **Note:** JavaScript has nothing to do with Java, which is a programming language developed by Sun Microsystems. JavaScript was originally going to be called LiveScript. It is an important discussion as Web Design utilizes both Java and JavaScript.
 
